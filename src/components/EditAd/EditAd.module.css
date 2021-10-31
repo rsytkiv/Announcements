@@ -1,0 +1,20 @@
+.EditContainer {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 0 auto;
+    padding: 30px;
+}
+.EditInput, .EditButton {
+    padding: 7px 15px;
+    border: 2px solid lightgray;
+    border-radius: 25px;
+    outline: none;
+    margin-bottom: 10px;
+}
+.EditButton:hover {
+    cursor: pointer;
+}
+.EditAdTitle {
+    margin-bottom: 10px;
+}

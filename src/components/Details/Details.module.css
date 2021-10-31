@@ -1,0 +1,14 @@
+.DetailsElements {
+    padding: 30px 50px;
+}
+.SimilarTitle {
+    padding-top: 30px;
+}
+.AdDetails {
+    display: flex;
+    flex-direction: column;
+    max-width: 65%;
+}
+.AdDetailsTitle, .AdDetailsDescription, .AdDetailsDate {
+    margin-bottom: 10px;
+}

@@ -1,0 +1,15 @@
+.Navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 15px 0;
+    background-color: #ebebeb;
+}
+.NavigationLi {
+    padding: 8px 12px;
+    font-size: 20px;
+}
+.NavigationLi:hover {
+    background-color: lightgray;
+    cursor: pointer;
+}

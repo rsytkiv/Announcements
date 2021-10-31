@@ -1,0 +1,24 @@
+.Posts {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding-top: 100px;
+}
+.Item {
+    /* width: 235px; */
+    padding: 10px 18px;
+    text-align: center;
+    /* height: 340px; */
+    border: 1px solid black;
+}
+.Container {
+    padding: 30px 50px;
+}
+.SearchInput {
+    padding: 10px 25px;
+    border-radius: 25px;
+    border: 2px solid lightgray;
+    max-width: 200px;
+    outline: none;
+}
